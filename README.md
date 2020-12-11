@@ -1,23 +1,9 @@
 # Horiseon Social Media Marketing Refactoring
 This project is an exercise in refactoring HTML and CSS for readability and accessibility purposes. I aim to make the site easier to understand for those with visual impairments while also providing adequate descriptors for those who might be experiencing connectivity issues. In addition, I also aim to optimize the site for seach engines. This is especially important considering the client specializes in SEO marketing strategies.
-![Site](images/digital-marketing-meeting.jpg)
-
-## Technologies Used
-- HTML - used to create the skeleton of the code and guide the refactoring
-- CSS - used to style html elements on the page
-- Git - used to track changes to the code
-- Git - hosts repository that can be deployed to GitHub pages
-
-______________________________________________________________________________
-  
-### Summary
-This application promotes the Horiseon Social Media Marketing agency. The specialize in SEO, particularly search engine optimization, online reputation management, and social media marketing.
-
-### Code Snippet
-
-
-#### Author Links
-
+## Heading 2
+### Heading 3
+### Headaing 4
+#### Heading 5
 ##### Heading 6
 
 *This text* is italic
